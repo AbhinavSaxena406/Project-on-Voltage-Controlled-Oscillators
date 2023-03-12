@@ -6,7 +6,7 @@ The circuit is designed on 180nm technology on Cadence Virtuoso at supply voltag
 
 ![Screenshot 2023-03-10 010259](https://user-images.githubusercontent.com/126613134/224138643-ce787a18-4796-4975-b150-ca915a282b74.png)
 # Simulations of 2-Stage VCO
-Transient output waveform of the VCO at 1.8V supply voltage and 0.1V control voltage.
+Transient output waveform of the VCO at 1.8V supply voltage and 0.1V control voltage. Achieved a high oscillating frequency from 6.47-10.82GHz for 2-stage VCO with wide tuning range of 40.20% 
 
 ![Screenshot 2023-03-10 010509](https://user-images.githubusercontent.com/126613134/224138936-7d243ab7-60f8-4b4c-a748-2c757bd625d7.png)
 
@@ -25,7 +25,7 @@ This graph represents the phase noise simulation of the 2-Stage VCO at 1MHz freq
 ![Screenshot 2023-03-10 004645](https://user-images.githubusercontent.com/126613134/224139878-7c12af9b-81df-4a17-b809-2f50d67add58.png)
 
 # Simulations of 4-Stage VCO
-Transient output waveform of the VCO at 1.8V supply voltage and 0.1V control voltage.
+Transient output waveform of the VCO at 1.8V supply voltage and 0.1V control voltage. Acheived high oscillating frequency from 4.23-7.06GHz for 4-stage VCO with wide tuning range of 40.08% with low power consumption.
 
 ![Screenshot 2023-03-10 005429](https://user-images.githubusercontent.com/126613134/224140086-90199e5d-658f-48ba-8974-8f8a48a2bb46.png)
 
